@@ -30,6 +30,6 @@ ReactDOM.render(
 .ant-progress-circle-wrap,
 .ant-progress-line-wrap {
   margin-right: 8px;
-  margin-bottom: 5px;
+  margin-bottom: 6px;
 }
 </style>
